@@ -1,7 +1,8 @@
 // Configuration file for API keys and settings
 export const CONFIG = {
   // Use the provided API key directly
-  GEMINI_API_KEY: "AIzaSyD9PLIv1aB1zzO11ZK90Ko_pwX-soUMGtw",
+  // You can change your Gemini API key here:
+  GEMINI_API_KEY: "AIzaSyBbBcgJVCjDMGdWH455P0EY3ZeQFa7pBbA", // <--- Update this value
 
   // GitHub API token for enhanced profile fetching (optional)
   // IMPORTANT: Removed NEXT_PUBLIC_ prefix to prevent client-side exposure
